@@ -1,0 +1,2 @@
+# VB6FixNoASCCode
+s
